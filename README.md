@@ -1,6 +1,7 @@
 # Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering
 
-This repository contains the source code for the paper **"Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering"**.
+This repository contains the official implementation of **"Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering"**, accepted at **CIKM 2026**.
+
 
 ## Requirements
 
